@@ -11,7 +11,6 @@ void print_square(int n)
       print_char('o');
       print_char('\n');
     }
-
   else if (n > 1)
     {
       print_top_or_bottom(n);
